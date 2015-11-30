@@ -1,4 +1,6 @@
-# Online Program Toolkit
+![Program Development Toolkit and Field Guide Cover Image](https://raw.githubusercontent.com/open-curriculum/program-dev-toolkit/master/assets/open-curric-cover.gif)
+
+# Program Development
 
 This project is currently tracking active development of an online program and is under constant flux. The result of this process will include methodologies, examples, and frameworks to help others build their own online programs and curriculum.
 
