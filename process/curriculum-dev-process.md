@@ -38,4 +38,4 @@ The curriculum commitee will consist of a large group of people who have signifi
 
 In a large institution, a new program may inadvertantly overlap and affect other programs and courses. Consultation is conducted to ensure that everyone in the organization has the opportunity to comment on the proposal and ensure minimal collisions. A well considered proposal will accumulate some feedback in this process, but should mostly receive a goahead signal.
 
-### Personnel
+### 7. Personnel
