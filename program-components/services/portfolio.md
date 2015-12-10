@@ -19,3 +19,6 @@ Components:
 Impact:
 - demonstrates **Engaged Scholarship** through student work
 - Linked to pathways
+- Meets college strategic plans for broader impacts
+  - Includes student professional development
+  - NSF grant potential 
